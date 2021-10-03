@@ -8,6 +8,8 @@ public class Team2Demo {
 		
 		
 		System.out.println("eam2Demo");
+		
+		System.out.println("Paola's addition");
 	}
  
 
